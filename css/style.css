@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.block {
+    width: 300px;
+    display: inline-block;
+    border: 1px solid #000;
+    padding: 20px;
+}
+
+.block-4 {
+    position: static;
+    bottom: 50px;  
+    border: 1px solid red;
+    background: red;
+}
+
+.qwerty {
+    height: 10000px;
+}
